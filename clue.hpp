@@ -335,7 +335,6 @@ public:
 		std::vector<PLAYERCARD> o;
 		size_t cats = TypeDeal.size();
 
-		// Random, atm
 		for (size_t i = 0; i < cats; i++)
 		{
 			struct CARDANDNEG
